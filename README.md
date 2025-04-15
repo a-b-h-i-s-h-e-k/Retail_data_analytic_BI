@@ -110,17 +110,7 @@ Running Total Revenue = CALCULATE([Total Revenue], FILTER(ALLSELECTED('DateTable
 
 ---
 
-## 📌 Screenshots
 
-> Add your visuals here
-
-```
-![Dashboard Overview](screenshots/dashboard_main.png)
-![Sales Trend](screenshots/sales_trend.png)
-![Category Analysis](screenshots/category_performance.png)
-```
-
----
 
 ## 💼 What I Learned
 
@@ -130,15 +120,7 @@ Running Total Revenue = CALCULATE([Total Revenue], FILTER(ALLSELECTED('DateTable
 - Designing insightful, user-friendly dashboards
 - Setting up meaningful slicers for dynamic exploration
 
----
 
-## 👨‍💻 Author
-
-**[Your Name]**  
-Power BI | Data Analyst | Dashboard Enthusiast  
-[LinkedIn](https://www.linkedin.com/) • [Portfolio Website](https://your-site.com) • [Email](mailto:your@email.com)
-
----
 
 ## 📁 Files
 
